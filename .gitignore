@@ -1,0 +1,11 @@
+
+.idea/.name
+*.xml
+*.iml
+
+
+*.cmake
+cmake-build-debug
+glm
+
+
